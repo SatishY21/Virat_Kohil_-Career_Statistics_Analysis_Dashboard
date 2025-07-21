@@ -1,10 +1,10 @@
-#🏏Virat Kohli Career Statistics Analysis Dashboard
+# 🏏 Virat Kohli Career Statistics Analysis Dashboard
 
-📝 Description
+## 📝 Description
 
 An interactive and visually compelling Power BI dashboard that analyzes the cricket career of Virat Kohli across all formats (ODI, T20I, Test). This project visualizes key performance metrics such as total runs, innings, batting average, strike rate, boundaries, and century counts over the years. It helps cricket analysts, fans, and statisticians explore Kohli’s performance trends in a clean, filterable layout.
 
-💻 Tech Stack
+## 💻 Tech Stack
 
 1. Power BI – For creating interactive visual dashboards
 
@@ -14,7 +14,7 @@ An interactive and visually compelling Power BI dashboard that analyzes the cric
 
 4. Excel/CSV – Used as the data source
 
-📂 Data Source
+## 📂 Data Source
 
 link: https://cricmetric.com/playerstats.py?player=V+Kohli&format=all&role=all
 The dataset includes structured cricket career data of Virat Kohli (ODI, T20I, and Test formats), compiled from publicly available cricket records. Data fields include:
@@ -37,7 +37,7 @@ The dataset includes structured cricket career data of Virat Kohli (ODI, T20I, a
 
 9. Innings Played
 
-🚀 Features
+## 🚀 Features
 
 🎯 Performance KPIs
     Displays total runs (26,075), innings (579), average (50.61), and strike rate (91.58).
@@ -59,7 +59,7 @@ The dataset includes structured cricket career data of Virat Kohli (ODI, T20I, a
 
     
 
-📌 Business Impact
+## 📌 Business Impact
 
 📊 Enhanced Sports Analytics
   Helps sports analysts evaluate player form, peak years, and consistency.
