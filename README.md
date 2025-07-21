@@ -1,4 +1,4 @@
-#🏏 Virat Kohli Career Statistics Analysis Dashboard
+🏏 #Virat Kohli Career Statistics Analysis Dashboard
 📝 Description
 An interactive and visually compelling Power BI dashboard that analyzes the cricket career of Virat Kohli across all formats (ODI, T20I, Test). This project visualizes key performance metrics such as total runs, innings, batting average, strike rate, boundaries, and century counts over the years. It helps cricket analysts, fans, and statisticians explore Kohli’s performance trends in a clean, filterable layout.
 
@@ -52,7 +52,8 @@ The dataset includes structured cricket career data of Virat Kohli (ODI, T20I, a
 📈 Century & Half-Century Trends
     Area chart to track 50s and 100s scored per year.
 
-#📌 Business Impact
+📌 Business Impact
+
 📊 Enhanced Sports Analytics
   Helps sports analysts evaluate player form, peak years, and consistency.
 
